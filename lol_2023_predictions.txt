@@ -1,0 +1,116 @@
+There were 3 Champions played in 4 roles during the 2023 season:
+	 Gragas ( Top, Mid, Support, Jungler )
+	 Jinx ( Bot, Support, Mid, Top )
+	 Zeri ( Bot, Support, Mid, Top )
+
+The top 3 picked champions in the 2023 season were:
+	 Jayce ( 606 times )
+	 K'Sante ( 601 times )
+	 Nautilus ( 541 times )
+
+The top 3 banned champions in the 2023 season were:
+	 LeBlanc ( 556 )
+	 Vi ( 464 )
+	 Tristana ( 420 )
+
+The top 3 champions with the most Deaths in the 2023 season were:
+	 Nautilus ( 1825 )
+	 Jayce ( 1526 )
+	 K'Sante ( 1362 )
+
+The top 10 champions with the highest win rate in the 2023 season were:
+	 Fizz ( 100 )
+	 Morgana ( 100 )
+	 Qiyana ( 100 )
+	 Quinn ( 100 )
+	 Rengar ( 100 )
+	 Senna ( 100 )
+	 Tryndamere ( 100 )
+	 Miss Fortune ( 95.65217 )
+	 Amumu ( 87.17949 )
+	 Vex ( 85.18519 )
+
+The top 10 players with the most different played champions in the 2023 season were:
+	Caps(G2 Esports): 31
+	WARANGELUS(Six Karma): 29
+	Keria(T1): 27
+	Chovy(Gen.G): 24
+	Yutapon(DetonatioN FM): 24
+	Delight(Gen.G): 23
+	Faker(T1): 23
+	Nisqy(MAD Lions): 23
+	ShowMaker(Dplus KIA): 23
+	Zeus(T1): 23
+
+The top 10 players with the most kills in a single game in the 2023 season were:
+	Milan (DetonatioN FocusMe Academy): 23 kills against Burning Core Academy
+	Carzzy (MAD Lions): 19 kills against Fnatic
+	Milan (DetonatioN FocusMe Academy): 19 kills against FENNEL Academy
+	Elk (Bilibili Gaming): 17 kills against Top Esports
+	Humanoid (Fnatic): 17 kills against MAD Lions
+	Slayder (GAM Esports): 17 kills against Saigon Buffalo
+	Kanavi (South Korea (National Team)): 16 kills against Vietnam (National Team)
+	Elk (Bilibili Gaming): 16 kills against Invictus Gaming
+	FBI (NRG): 16 kills against Cloud9
+	Aria (Lee Ga-eul) (DetonatioN FocusMe): 16 kills against FENNEL
+
+The top 10 players with the highest average KDA in the 2023 season were:
+	Playcool (GAM Esports): 10.5
+	Berserker (Kim Min-cheol) (Cloud9): 10
+	Yutapon (DetonatioN FM): 9.57
+	Daiky (Movistar R7): 9.35
+	Aria (Lee Ga-eul) (DetonatioN FM): 9.09
+	Wako (PSG Talon): 9.05
+	ShowMaker (Dplus KIA): 8.49
+	Hans Sama (G2 Esports): 8.47
+	Azhi (PSG Talon): 8.44
+	Chovy (Gen.G): 8.4
+
+The players with pentakills in the 2023 season were:
+	FlickeR: 2
+	BAO: 1
+	Caltys: 1
+	Dan: 1
+	Flakked: 1
+	Hid0: 1
+	Hype: 1
+	Levitate: 1
+	Spawn: 1
+	Ssol: 1
+	Woolite: 1
+	ZAMULEK: 1
+	Zinco: 1
+	deokdam: 1
+
+The underdog teams win counts in the 2023 season were:
+	Movistar R7: 63 wins
+	GAM Esports: 39 wins
+	DetonatioN FocusMe: 38 wins
+	LOUD: 37 wins
+	PSG Talon: 37 wins
+	Team Whales: 28 wins
+	CTBC Flying Oyster: 27 wins
+
+The teams with the shortest wins in the 2023 season were:
+	GAM Esports: 18:44 minutes
+	Team Liquid: 18:58 minutes
+	CTBC Flying Oyster: 19:33 minutes
+	Fnatic: 19:37 minutes
+	GAM Esports: 19:41 minutes
+	G2 Esports: 20:13 minutes
+	JD Gaming: 20:13 minutes
+	JD Gaming: 20:25 minutes
+	Cloud9: 20:42 minutes
+	PSG Talon: 20:43 minutes
+
+The teams that played the most champions in the 2023 season were:
+	G2 Esports: 93
+	T1: 91
+	Gen.G: 86
+	Dplus KIA: 82
+	KT Rolster: 81
+	MAD Lions: 79
+	Movistar R7: 78
+	Team Liquid: 76
+	GAM Esports: 75
+	JD Gaming: 75
